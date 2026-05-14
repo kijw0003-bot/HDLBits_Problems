@@ -11,5 +11,5 @@ module top_module (
         q <= d;
     end
         
-     D:\김정완\HDLBits_Problems
+    
 endmodule
